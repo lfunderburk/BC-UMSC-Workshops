@@ -25,6 +25,8 @@ We want to provide undergraduate students in Mathematics and Statistics an oppor
 
 BC UMSC will be hosted at Simon Fraser University’s Burnaby Campus.
 
+![SFU](./Images/SFU.jpg)
+
 # Organizing Commitee
 
 Alice Roberts (Co-Chair)
