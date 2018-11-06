@@ -33,4 +33,26 @@ Alice Roberts (Co-Chair)
 
 Kristen Bystrom (Co-Chair)
 
-Nikola Surjanovic (Industry Partnership Coordinator), Laura Gutierrez Funderburk (Grant Writer & Budgeting and Workshop Coordinator),  Linda Kingsman (Director of Internal Operations),  Sebastian Mora (Recruit and Liaise students),  Tianna Tso ( Director of Marketing), Anya Phillip (Editor),  Maryam Labani ( Volunteer Coordinator),  Zhi Yuh Ou Yang (Workshop Coordinator),  Bryce Haley (Webmaster),  Kelly Wallace ( Graphic Designer),  Paige Tuttosi (Director of Events),  Mina Labani (Assitant to the Chairs)
+Nikola Surjanovic (Industry Partnership Coordinator)
+
+Laura Gutierrez Funderburk (Grant Writer & Budgeting and Workshop Coordinator)
+
+Linda Kingsman (Director of Internal Operations)
+
+Sebastian Mora (Recruit and Liaise students)
+
+Tianna Tso ( Director of Marketing)
+
+Anya Phillip (Editor)
+
+Maryam Labani (Volunteer Coordinator)
+
+Zhi Yuh Ou Yang (Workshop Coordinator)
+
+Bryce Haley (Webmaster)
+
+Kelly Wallace (Graphic Designer)
+
+Paige Tuttosi (Director of Events)
+
+Mina Labani (Assitant to the Chairs)
