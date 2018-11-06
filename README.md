@@ -56,3 +56,7 @@ Kelly Wallace (Graphic Designer)
 Paige Tuttosi (Director of Events)
 
 Mina Labani (Assitant to the Chairs)
+
+# Partners
+
+We are partnering up with the Department of Mathematics at SFU, the Department of Statistics at SFU and the Scientific Programming Study Group (SciProg) at SFU.
