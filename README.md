@@ -5,6 +5,8 @@ This repository contains workshop basic format and will serve as a common point 
 
 The British Columnbia Undergraduate Mathematics and Statistics Conference (BC  UMSC)  is  the BC inaugural event whose purpose is to connect  undergraduate  mathematics  and  statistics students from across  BC with each other,  with professors,  and with  industry partners.   We  aim  to  create  quality  opportunities  for  accomplished  students to showcase their research and expand their learning.  Our conference will increase the reputations of universities across British Columbia as centres for statistics and mathematics excellence.
 
+![Logo](./Images/5E9027E9-0012-4F85-B598-6877015E88EA.png)
+
 # Events 
 
 ## Data Visualization Competition
