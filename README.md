@@ -60,3 +60,18 @@ Mina Labani (Assitant to the Chairs)
 # Partners
 
 We are partnering up with the Department of Mathematics at SFU, the Department of Statistics at SFU and the Scientific Programming Study Group (SciProg) at SFU.
+
+
+We had an opportunity to meet during one of the organizing meetings for Hackseq. 
+
+I am currently co-organizing SciProg along with the BC UMSC (BC Undergraduate Math and Stats Conference). Its main purpose is to facilitate learning experiences and networking for senior students in math and stats. Part of the theme includes drawing connections between STEM fields, Data Analysis, Math and Stats. We will facilitate a number of workshops in R, Python, Github and Data Analysis. 
+
+Given your experience, I was wondering if you would be interested in facilitating either the Introduction to Github or the Introduction to Data Analysis workshops. The conference will take place between April 25-27 2019. 
+
+Refer to ![BCUMSC](https://github.com/lfunderburk/BC-UMSC-Workshops) for details on the conference. 
+
+Thank you for your time. 
+
+Best,
+
+Laura Gutierrez Funderburk (@lfunderburk )
