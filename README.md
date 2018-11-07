@@ -68,7 +68,7 @@ I am currently co-organizing SciProg along with the BC UMSC (BC Undergraduate Ma
 
 Given your experience, I was wondering if you would be interested in facilitating either the Introduction to Github or the Introduction to Data Analysis workshops. The conference will take place between April 25-27 2019. 
 
-Refer to ![](https://github.com/lfunderburk/BC-UMSC-Workshops) for details on the conference. 
+Refer to https://github.com/lfunderburk/BC-UMSC-Workshops for details on the conference. 
 
 Thank you for your time. 
 
