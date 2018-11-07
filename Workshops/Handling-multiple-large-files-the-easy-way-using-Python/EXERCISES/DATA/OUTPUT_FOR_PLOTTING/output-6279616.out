@@ -1,0 +1,121 @@
+Generating MSA F1
+MZ22503562
+------
+3	 sequence(s) with genetic code	The_Standard_Code
+Build draft alignment using greedy strategy based on UPGMA tree
+compute kmer dist 
+build UPGMA done 
+++start refining the alignment
+++.-.
+Refine 2 cut : sum of pair========= 1 => -11524.322
+-..--
+Refine 2 cut : sum of pair========= 2 => -11524.322
+true
+/home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F1/NT_Al/MZ22503562.fasta
+
+Generating MSA F2
+MZ22507874
+------
+15	 sequence(s) with genetic code	The_Standard_Code
+Build draft alignment using greedy strategy based on UPGMA tree
+compute kmer dist 
+build UPGMA done 
+++++++++++++++start refining the alignment
++..+..+.+.+......+..++.+.+...
+Refine 2 cut : sum of pair========= 1 => -288895.0
+..............+..............
+Refine 2 cut : sum of pair========= 2 => -288909.0
+..-.-.-.-.......-.......--.--
+Refine 2 cut : sum of pair========= 3 => -288909.0
+true
+/home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F2/NT_Al/MZ22507874.fasta
+
+Generating MSA F1_F2
+MZ22503562_MZ22507874
+------
+18	 sequence(s) with genetic code	The_Standard_Code
+Build draft alignment using greedy strategy based on UPGMA tree
+compute kmer dist 
+build UPGMA done 
++++++++++++++++++start refining the alignment
++++.+..++.+...........++.+...+..++.
+Refine 2 cut : sum of pair========= 1 => -218171.44
+....++..+.++....+.+.++..+++.++..++.
+Refine 2 cut : sum of pair========= 2 => -226220.28
++.+.++.++.++..+.+.+.+...++.+++.+++.
+Refine 2 cut : sum of pair========= 3 => -232653.19
+.++..+........+.++++..+.++.+++.+...
+Refine 2 cut : sum of pair========= 4 => -237196.19
+..+..+....+...+..+.+.....++.++.....
+Refine 2 cut : sum of pair========= 5 => -237889.03
+..+....+.......+......+....++..+.+.
+Refine 2 cut : sum of pair========= 6 => -238198.66
+..+.+..+...........+...........+++.
+Refine 2 cut : sum of pair========= 7 => -242759.12
++++.+..+......++..++..+.++..++++.+.
+Refine 2 cut : sum of pair========= 8 => -273825.88
++++.....+...++.+...+...++..........
+Refine 2 cut : sum of pair========= 9 => -284371.25
+.....-..............-.......-....--
+Refine 2 cut : sum of pair========= 10 => -284371.25
+true
+/home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F1_F2/NT_Al/MZ22503562_MZ22507874.fasta
+------
+------
+------
+Apply exportAlignment on F1
+MZ22503562
+------
+3	 sequence(s) with genetic code	The_Standard_Code
+true
+/home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F1/NT_exp/MZ22503562.fasta
+
+Apply exportAlignment on F2
+MZ22507874
+------
+15	 sequence(s) with genetic code	The_Standard_Code
+true
+/home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F2/NT_exp/MZ22507874.fasta
+
+Apply exportAlignment on F1_F2
+MZ22503562_MZ22507874
+------
+18	 sequence(s) with genetic code	The_Standard_Code
+true
+/home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F1_F2/NT_exp/MZ22503562_MZ22507874.fasta
+------
+------
+------
+Apply splitAlignment on F1_F2 to get F1P and F2P
+MZ22503562_MZ22507874
+F1P MZ22503562
+F2P MZ22507874
+------
+18	 sequence(s) with genetic code	The_Standard_Code
+(seq_27,seq_15,seq_7)
+------
+------
+------
+QSCORE F1 and F1P
+MZ22503562
+------
+
+***ERROR***
+Test seq 2 (AXCN01002159 dna:supercontig) differs from ref seq 0 (AXCN01002159 dna:supercontig), ref col 2788=G, test=C
+Test file: /home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F1P/MZ22503562.fasta
+Ref  file: /home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F1/NT_exp/MZ22503562.fasta
+
+QSCORE F2 and F2P
+MZ22507874
+------
+15 seqs; 0 of 105 pairs (0.0%)15 seqs; 100 of 105 pairs (95.2%)15 seqs; 105 of 105 pairs (100%)
+Test=/home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F2P/MZ22507874.fasta;Ref=/home/lgutierr/projects/rrg-chauvec/lgutierr/subfamilies/synteny_in_x_vs_n-x-q/synteny_in_3_and_n-3-2/Alignments/F2/NT_exp/MZ22507874.fasta;Q=0.985;TC=0.951;Cline=0.985
+------
+------
+ 
+ 
+END
+ 
+ 
+------
+------
