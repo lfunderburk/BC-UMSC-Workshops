@@ -57,7 +57,15 @@ Paige Tuttosi (Director of Events)
 
 Mina Labani (Assitant to the Chairs)
 
-# Partners
+# Sponsors 
 
-We are partnering up with the Department of Mathematics at SFU, the Department of Statistics at SFU and the Scientific Programming Study Group (SciProg) at SFU.
+![PIMS](./Images/SponsorsLogo/Pims.png)
+
+![DepM](./Images/SponsorsLogo/DepMa.png)
+
+![DepS](./Images/SponsorsLogo/DepSta.png)
+
+![Plaid](./Images/SponsorsLogo/Plaid.png)
+
+![Tourb](./Images/SponsorsLogo/TourB.png)
 
