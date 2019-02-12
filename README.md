@@ -57,6 +57,10 @@ Paige Tuttosi (Director of Events)
 
 Mina Labani (Assitant to the Chairs)
 
+# Partners
+
+![PIMS](./Images/SponsorsLogo/SciProg.png) 
+
 # Sponsors 
 
 ![PIMS](./Images/SponsorsLogo/Pims.png)
