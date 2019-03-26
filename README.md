@@ -19,7 +19,7 @@ We will facilitate workshops in R, Maple or Matlab,Python,  Git, introduction to
 
 ## Networking
 
-We want to provide undergraduate students in Mathematics and Statistics an opportunity to meet other students, professors, organizers and industry members who have similar interests and goals. We will organize engaging and enjoyable activities for participants and sponsors so they can connect. Events involve a pub night,  movie night,  trivia night,  and/or short exploratory excursions to downtown Vancouver.  
+We want to provide undergraduate students in Mathematics and Statistics an opportunity to meet other students, professors, organizers and industry members who have similar interests and goals. We will organize engaging and enjoyable activities for participants and sponsors so they can connect. Events involve a pub night,  movie night,  trivia night,  and a stargazing night at SFU's observatory.  
 
 # Venue
 
