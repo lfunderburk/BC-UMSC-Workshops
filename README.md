@@ -73,3 +73,5 @@ Mina Labani (Assitant to the Chairs)
 
 ![Tourb](./Images/SponsorsLogo/TourB.png)
 
+![SSC](./Images/SponsorsLogo/SSC.png)
+
