@@ -8,7 +8,6 @@
 ~~~
 conda install numpy vtk
 ~~~
-{: .bash}
 
 <!-- These are likely not needed: -->
 <!-- networkx gensim scikit-learn pandas jupyter plotly scipy -->
