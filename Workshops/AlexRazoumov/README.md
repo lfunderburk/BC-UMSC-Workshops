@@ -1,7 +1,14 @@
-### For Conference Organizers
+### Software installation
 
-1. Provide the Workshop_Structure.pdf file to facilitators who have confirmed their participation as a guideline for their workshop. Ensure all sections are included in their workshop material. 
-2. Provide BC UMSC logo and request facilitators to add it at the top of their workshop material 
-3. Once the facilitator has completed their workshop material, revise content
-4. Make a directory with format WorkshopTitle_Author/ and store their material there
+1. For your OS install ParaView from http://www.paraview.org/download
+1. For your OS install Python3.7 Miniconda distribution from http://conda.pydata.org/miniconda.html
+1. Start the command-line shell (terminal in MacOS/Linux, DOS prompt in Windows) and then install the
+   required Python packages:
 
+~~~
+conda install numpy vtk
+~~~
+{: .bash}
+
+<!-- These are likely not needed: -->
+<!-- networkx gensim scikit-learn pandas jupyter plotly scipy -->
