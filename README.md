@@ -1,4 +1,7 @@
 # BC-UMSC-Workshops
+
+[![Join the chat at https://gitter.im/BC-UMSC-Workshops/community](https://badges.gitter.im/BC-UMSC-Workshops/community.svg)](https://gitter.im/BC-UMSC-Workshops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains workshop basic format and will serve as a common point to store workshop material for BC UMSC
 
 # About BC UMSC 
