@@ -1,7 +1,11 @@
-### For Conference Organizers
+### WORKSHOP DETAILS:
 
-1. Provide the Workshop_Structure.pdf file to facilitators who have confirmed their participation as a guideline for their workshop. Ensure all sections are included in their workshop material. 
-2. Provide BC UMSC logo and request facilitators to add it at the top of their workshop material 
-3. Once the facilitator has completed their workshop material, revise content
-4. Make a directory with format WorkshopTitle_Author/ and store their material there
+R is a programming language and free software environment for statistical computing and graphics. R provides an open source route to easily apply a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering) and graphical techniques, and is highly extensible.
 
+In this workshop participants will take their first steps with R. The objective of this workshop will focus on creating new variables to conduct basic calculations, getting data to R, conducting simple statistics and visualization with R, and then introducing linear regression and decision tree models with applications in R.
+
+### WORKSHOP ASSUMPTIONS:
+No prior experience with R is required.
+
+### WORKSHOP PRE-REQUISITES:
+Download R here before the workshop:https://www.r-project.org/
