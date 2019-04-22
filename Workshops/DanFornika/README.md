@@ -1,7 +1,8 @@
-### For Conference Organizers
+### WORKSHOP DETAILS:
+GitHub is a popular platform for working collaboratively on software and data projects. This workshop will focus on introducing the features of GitHub that facilitate collaboration. Participants will learn how to propose and discuss changes to a repository. We will discuss ways to manage changes in a safe and controlled manner by using GitHub features such as 'branches' and 'Pull Requests'.
 
-1. Provide the Workshop_Structure.pdf file to facilitators who have confirmed their participation as a guideline for their workshop. Ensure all sections are included in their workshop material. 
-2. Provide BC UMSC logo and request facilitators to add it at the top of their workshop material 
-3. Once the facilitator has completed their workshop material, revise content
-4. Make a directory with format WorkshopTitle_Author/ and store their material there
+### WORKSHOP ASSUMPTIONS: 
+Some basic familiarity with version control using GitHub.
 
+### WORKSHOP PRE-REQUISITES:
+Register for your own GitHub  account here before attending the workshop: https://github.com/
