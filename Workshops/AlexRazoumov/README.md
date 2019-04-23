@@ -6,7 +6,7 @@
    required Python packages:
 
 ~~~
-conda install numpy vtk
+conda install numpy vtk pandas
 ~~~
 
 <!-- These are likely not needed: -->
