@@ -24,8 +24,7 @@ conda install numpy vtk pandas
 We will be using a subset of slides from a full-day ParaView workshop. Please download and unpack a
 [ZIP file](http://bit.ly/paraviewzip) containing the slides, sample codes and datasets.
 
-You will also need the following files:
+Please also download the following files from this directory:
 
-* the dataset we will be visualizing
-  [ferryData.csv](https://raw.githubusercontent.com/lfunderburk/BC-UMSC-Workshops/master/Workshops/AlexRazoumov/ferryData.csv)
-* a Python script to write points and graphs to a VTK file
+* **ferryData.csv** is the dataset we will be visualizing,
+* **writeNodesEdges.py** is a Python script to write points and graphs to a VTK file.
