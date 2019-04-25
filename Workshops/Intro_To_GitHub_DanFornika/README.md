@@ -11,8 +11,9 @@ Some basic familiarity with version control using GitHub.
 ## Workshop Pre-requisites:
 Register for your own GitHub account here before attending the workshop: https://github.com/
 
-## References
-[Bryan, J Excuse me, do you have a moment to talk
-about version control?](https://peerj.com/preprints/3159.pdf)
+## References/Resources
+*Note*: These references include more information on using a local `git` client than we discuss in this workshop. They may be useful for future work with `git`/GitHub, but participants are not expected to have read this material before the workshop.
 
-[Software Carpentry 'Version Control with Git: Collaborating](http://swcarpentry.github.io/git-novice/08-collab/index.html)
+[Bryan, J Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159.pdf)
+
+[Software Carpentry 'Version Control with Git: Collaborating'](http://swcarpentry.github.io/git-novice/08-collab/index.html)
