@@ -2,6 +2,8 @@
 
 [![Gitter](https://badges.gitter.im/BC-UMSC-Workshops/Intro_To_GitHub.svg)](https://gitter.im/BC-UMSC-Workshops/Intro_To_GitHub?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[Workshop Slides on Google Drive](https://docs.google.com/presentation/d/1NcslOJVPa3c7KSglS0JbhQupsfugOICvwi6BOft-yIo/edit?usp=sharing)
+
 ## Workshop Details:
 GitHub is a popular platform for working collaboratively on software and data projects. This workshop will focus on introducing the features of GitHub that facilitate collaboration. Participants will learn how to propose and discuss changes to a repository. We will discuss ways to manage changes in a safe and controlled manner by using GitHub features such as 'branches' and 'Pull Requests'.
 
