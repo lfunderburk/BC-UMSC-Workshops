@@ -19,3 +19,5 @@ Register for your own GitHub account here before attending the workshop: https:/
 [Software Carpentry 'Version Control with Git: Collaborating'](http://swcarpentry.github.io/git-novice/08-collab/index.html)
 
 [Guide to writing Markdown](https://guides.github.com/features/mastering-markdown/)
+
+[Writing Good Commit Messages](https://medium.com/compass-true-north/writing-good-commit-messages-fc33af9d6321)
