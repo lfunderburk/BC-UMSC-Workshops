@@ -17,3 +17,5 @@ Register for your own GitHub account here before attending the workshop: https:/
 [Bryan, J Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159.pdf)
 
 [Software Carpentry 'Version Control with Git: Collaborating'](http://swcarpentry.github.io/git-novice/08-collab/index.html)
+
+[Guide to writing Markdown](https://guides.github.com/features/mastering-markdown/)
