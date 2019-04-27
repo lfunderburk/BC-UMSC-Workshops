@@ -28,3 +28,7 @@ Please also download the following files from this directory:
 
 * **ferryData.csv** is the dataset we will be visualizing,
 * **writeNodesEdges.py** is a Python script to write points and graphs to a VTK file.
+
+### Live code
+
+* **scatter.py** is the live code
